@@ -1,38 +1,39 @@
-# 👋 Bem-vindo à Nossa Organização!  
+# 👋 Welcome to Our Organization!  
 
-Somos uma organização dedicada ao desenvolvimento de ferramentas e conteúdos para o **ensino de Química** com o auxílio da **Informática**. Nosso objetivo é integrar conceitos da **Quimioinformática** às aulas de Química, utilizando bibliotecas computacionais para simplificar e inovar o aprendizado.
+We are an organization dedicated to developing tools and content for **Chemistry education** with the support of **Computer Science**. Our goal is to integrate **Cheminformatics** concepts into Chemistry classes, using computational libraries to simplify and innovate learning.
 
-## 💡 O que fazemos?  
-Trabalhamos com tecnologias de ponta para construir soluções que conectam a química à informática. Entre as bibliotecas principais que utilizamos estão:  
-- **RDKit**: Para manipulação de estruturas moleculares e cálculo de propriedades químicas.  
-- **PyMOL**: Para visualização de moléculas em 3D.  
-- **Pandas**: Para análise e manipulação de dados químicos.  
-- **Matplotlib**: Para criação de gráficos e visualizações.  
+## 💡 What Do We Do?  
+We work with cutting-edge technologies to build solutions that connect Chemistry with Computer Science. Some of the main libraries we use are:  
+- **RDKit**: For molecular structure manipulation and chemical property calculations.  
+- **PyMOL**: For 3D molecular visualization.  
+- **Pandas**: For chemical data analysis and manipulation.  
+- **Matplotlib**: For creating graphs and visualizations.  
 
-Nosso foco é levar conceitos complexos para a sala de aula de maneira prática e acessível, permitindo que professores e alunos explorem o potencial da Química Computacional.
+Our focus is to bring complex concepts into the classroom in a practical and accessible way, enabling teachers and students to explore the potential of Computational Chemistry.
 
-## 🌟 Como você pode se envolver?  
-1. Contribua com nossos projetos open-source.  
-2. Participe das discussões e compartilhe ideias para melhorar o ensino de Química.  
-3. Utilize nossas ferramentas e dê feedback para que possamos continuar a evoluir.  
+## 🌟 How Can You Get Involved?  
+1. Contribute to our open-source projects.  
+2. Join discussions and share ideas to improve Chemistry education.  
+3. Use our tools and provide feedback so we can continue evolving.  
 
-## 📚 Recursos Úteis  
-- Documentação de nossas ferramentas e projetos.  
-- Exemplos de uso das bibliotecas para fins educacionais.  
-- Tutoriais e guias para professores interessados em integrar informática às aulas de Química.  
+## 📚 Useful Resources  
+- Documentation for our tools and projects.  
+- Examples of library usage for educational purposes.  
+- Tutorials and guides for teachers interested in integrating Computer Science into Chemistry classes.  
 
-## 🛠 Equipe  
-Aqui está a nossa equipe incrível que torna tudo isso possível:  
+## 🛠 Team  
+Here is our amazing team that makes it all possible:  
 
-| Nome                | E-mail                     | Título                          | Grau             |
-|---------------------|----------------------------|----------------------------------|------------------|
-|Bruno Ricardo Vilachã Ferreira     | bruno.ferreira@ifnmg.edu.br           | Coordenador de Projetos       | Doutor em Química|
-| João Paulo Costa Ribeiro    | jpcr@aluno.ifnmg.edu.br         | Fundador da Organização                     | Graduando em Química|
-| Luiza Castro Nere   | lcn1@aluno.ifnmg.edu.br         | Integrante da Organização         | Técnica em Informática|
-| Cibely Nascimento Soares     | cns4@aluno.ifnmg.edu.br             | Integrante da Organização| Técnica em Informática|
+| Name                | Email                     | Title                          | Degree             |
+|---------------------|---------------------------|--------------------------------|--------------------|
+| Bruno Ricardo Vilachã Ferreira     | bruno.ferreira@ifnmg.edu.br           | Project Coordinator       | Ph.D. in Chemistry|
+| João Paulo Costa Ribeiro    | jpcr@aluno.ifnmg.edu.br         | Organization Founder                     | Undergraduate in Chemistry|
+| Luiza Castro Nere   | lcn1@aluno.ifnmg.edu.br         | Organization Member         | Technician in Computer Science|
+| Cibely Nascimento Soares     | cns4@aluno.ifnmg.edu.br             | Organization Member| Technician in Computer Science|
 
-> 🌟 **Estamos sempre em busca de novos membros e colaborações!** Se você compartilha o mesmo entusiasmo por tecnologia e educação em Química, junte-se a nós.  
+> 🌟 **We are always looking for new members and collaborations!** If you share the same enthusiasm for technology and Chemistry education, join us.  
 
 ---
 
-### 🚀 "Transformando o ensino de Química com tecnologia!"
+### 🚀 "Transforming Chemistry education with technology!"
+
