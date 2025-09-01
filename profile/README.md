@@ -26,10 +26,10 @@ Here is our amazing team that makes it all possible:
 
 | Name                | Email                     | Title                          | Degree             |
 |---------------------|---------------------------|--------------------------------|--------------------|
-| Bruno Ricardo Vilachã Ferreira     | bruno.ferreira@ifnmg.edu.br           | Project Coordinator       | Ph.D. in Chemistry|
 | João Paulo Costa Ribeiro    | jpcr@aluno.ifnmg.edu.br         | Organization Founder                     | Undergraduate in Chemistry|
-| Luiza Castro Nere   | lcn1@aluno.ifnmg.edu.br         | Organization Member         | Technician in Computer Science|
-| Cibely Nascimento Soares     | cns4@aluno.ifnmg.edu.br             | Organization Member| Technician in Computer Science|
+| Bruno Ricardo Vilachã Ferreira     | bruno.ferreira@ifnmg.edu.br           | Project Coordinator       | Ph.D. in Chemistry|
+
+
 
 > 🌟 **We are always looking for new members and collaborations!** If you share the same enthusiasm for technology and Chemistry education, join us.  
 
