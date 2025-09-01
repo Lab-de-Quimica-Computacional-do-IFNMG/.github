@@ -5,7 +5,6 @@ We are an organization dedicated to developing tools and content for **Chemistry
 ## 💡 What Do We Do?  
 We work with cutting-edge technologies to build solutions that connect Chemistry with Computer Science. Some of the main libraries we use are:  
 - **RDKit**: For molecular structure manipulation and chemical property calculations.  
-- **PyMOL**: For 3D molecular visualization.  
 - **Pandas**: For chemical data analysis and manipulation.  
 - **Matplotlib**: For creating graphs and visualizations.  
 
